@@ -56,7 +56,7 @@ You can contact me via:
 
 ## Badges
 **Languages 📚**:
-- ![Language](https://img.shields.io/badge/Language-JavaScript-blue?style=for-the-badge&logo=JavaScript)
+- ![Language](https://img.shields.io/badge/Language-JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=black)
   - ![Language](https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=TypeScript)
   - ![Framework](https://img.shields.io/badge/Language-Nodejs-blue?style=for-the-badge&logo=Javascript)
   - ![Library](https://img.shields.io/badge/Language-React-blue?style=for-the-badge&logo=React)
