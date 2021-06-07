@@ -56,23 +56,23 @@ You can contact me via:
 
 ## Badges
 **Languages 📚**:
-- [Language](https://img.shields.io/badge/Language-JavaScript-blue?style=for-the-badge&logo=JavaScript)
-  - [Language](https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=TypeScript)
-  - [Framework](https://img.shields.io/badge/Language-Nodejs-blue?style=for-the-badge&logo=Javascript)
-  - [Library](https://img.shields.io/badge/Language-React-blue?style=for-the-badge&logo=React)
-  - [Framework](https://img.shields.io/badge/Language-Expressjs-blue?style=for-the-badge&logo=Express)
-- [Language](https://img.shields.io/badge/Language-HTML-blue?style=for-the-badge&logo=HTML5)
-- [Language](https://img.shields.io/badge/Language-CSS-blue?style=for-the-badge&logo=CSS3)
-- [Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge)
-- [Language](https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=Java)
-- [Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python)
+[Language](https://img.shields.io/badge/Language-JavaScript-blue?style=for-the-badge&logo=JavaScript)
+[Language](https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=TypeScript)
+[Framework](https://img.shields.io/badge/Language-Nodejs-blue?style=for-the-badge&logo=Javascript)
+[Library](https://img.shields.io/badge/Language-React-blue?style=for-the-badge&logo=React)
+[Framework](https://img.shields.io/badge/Language-Expressjs-blue?style=for-the-badge&logo=Express)
+[Language](https://img.shields.io/badge/Language-HTML-blue?style=for-the-badge&logo=HTML5)
+[Language](https://img.shields.io/badge/Language-CSS-blue?style=for-the-badge&logo=CSS3)
+[Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge)
+[Language](https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=Java)
+[Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python)
 
 **Cloud ☁**:
-- [Firebase](https://img.shields.io/badge/Language-Firebase-blue?style=for-the-badge&logo=Firebase)
-- [AWS](https://img.shields.io/badge/Language-AWS-blue?style=for-the-badge&logo=Amazon%20AWS)
+[Firebase](https://img.shields.io/badge/Language-Firebase-blue?style=for-the-badge&logo=Firebase)
+[AWS](https://img.shields.io/badge/Language-AWS-blue?style=for-the-badge&logo=Amazon%20AWS)
 
 **Databases 📄**
-- [Database](https://img.shields.io/badge/Language-MongoDB-blue?style=for-the-badge&logo=MongoDB)
-- [Database](https://img.shields.io/badge/Language-DynamoDB-blue?style=for-the-badge&logo=Amazon%20DynamoDB)
-- [Database](http://img.shields.io/badge/Language-MySQL-blue?style=for-the-badge&logo=MySQL)
-- [Database](https://img.shields.io/badge/Language-SQLITE-blue?style=for-the-badge&logo=SQLite)
+[Database](https://img.shields.io/badge/Language-MongoDB-blue?style=for-the-badge&logo=MongoDB)
+[Database](https://img.shields.io/badge/Language-DynamoDB-blue?style=for-the-badge&logo=Amazon%20DynamoDB)
+[Database](http://img.shields.io/badge/Language-MySQL-blue?style=for-the-badge&logo=MySQL)
+[Database](https://img.shields.io/badge/Language-SQLITE-blue?style=for-the-badge&logo=SQLite)
