@@ -51,5 +51,5 @@ You can contact me via:
 - Looking for summer interships
 
 ## Featured Projects 🥇
-[![AudioLec](https://github-readme-stats.vercel.app/api/pin/?username=aryamankukal&repo=AudioLec)](https://github.com/anuraghazra/github-readme-stats)
-[![CBot Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=jjoel1630&repo=CBot)](https://github.com/anuraghazra/github-readme-stats)
+[![AudioLec](https://github-readme-stats.vercel.app/api/pin/?username=aryamankukal&repo=AudioLec&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![CBot Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=jjoel1630&repo=CBot&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
