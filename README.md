@@ -58,9 +58,9 @@ You can contact me via:
 **Languages 📚**:
 - ![Language](https://img.shields.io/badge/Language-JavaScript-blue?style=for-the-badge&logo=JavaScript&logoColor=white)
   - ![Language](https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=TypeScript&logoColor=white)
-  - ![Framework](https://img.shields.io/badge/Language-Nodejs-blue?style=for-the-badge&logo=Javascript&logoColor=white)
-  - ![Library](https://img.shields.io/badge/Language-React-blue?style=for-the-badge&logo=React&logoColor=white)
-  - ![Framework](https://img.shields.io/badge/Language-Expressjs-blue?style=for-the-badge&logo=Express&logoColor=white)
+  - ![Framework](https://img.shields.io/badge/Framework-Nodejs-blue?style=for-the-badge&logo=Javascript&logoColor=white)
+  - ![Library](https://img.shields.io/badge/Library-React-blue?style=for-the-badge&logo=React&logoColor=white)
+  - ![Framework](https://img.shields.io/badge/Framework-Expressjs-blue?style=for-the-badge&logo=Express&logoColor=white)
 - ![Language](https://img.shields.io/badge/Language-HTML-blue?style=for-the-badge&logo=HTML5&logoColor=white)
 - ![Language](https://img.shields.io/badge/Language-CSS-blue?style=for-the-badge&logo=CSS3&logoColor=white)
 - ![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logoColor=white)
@@ -68,15 +68,15 @@ You can contact me via:
 - ![Language](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
 
 **Cloud ☁**:
-- ![Firebase](https://img.shields.io/badge/Language-Firebase-blue?style=for-the-badge&logo=Firebase&logoColor=white)
-- ![AWS](https://img.shields.io/badge/Language-AWS-blue?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
+- ![Firebase](https://img.shields.io/badge/Cloud%20SDK-Firebase-blue?style=for-the-badge&logo=Firebase&logoColor=white)
+- ![AWS](https://img.shields.io/badge/Cloud%20Provider-AWS-blue?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 
 **Databases 📄**
-- ![Database](https://img.shields.io/badge/Language-MongoDB-blue?style=for-the-badge&logo=MongoDB&logoColor=white)
-- ![Database](https://img.shields.io/badge/Language-DynamoDB-blue?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
-- ![Database](http://img.shields.io/badge/Language-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white)
-- ![Database](https://img.shields.io/badge/Language-SQLITE-blue?style=for-the-badge&logo=SQLite&logoColor=white)
+- ![Database](https://img.shields.io/badge/Database-MongoDB-blue?style=for-the-badge&logo=MongoDB&logoColor=white)
+- ![Database](https://img.shields.io/badge/Database-DynamoDB-blue?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+- ![Database](http://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white)
+- ![Database](https://img.shields.io/badge/Database-SQLITE-blue?style=for-the-badge&logo=SQLite&logoColor=white)
 
 **Environment**:
-- ![Operating System](https://img.shields.io/badge/Language-Ubuntu-blue?style=for-the-badge&logo=Ubuntu&logoColor=white)
-- ![Operating System](https://img.shields.io/badge/Language-Windows-blue?style=for-the-badge&logo=Windows&logoColor=white)
+- ![Operating System](https://img.shields.io/badge/Operating%20System-Ubuntu-blue?style=for-the-badge&logo=Ubuntu&logoColor=white)
+- ![Operating System](https://img.shields.io/badge/Operating%20System-Windows-blue?style=for-the-badge&logo=Windows&logoColor=white)
