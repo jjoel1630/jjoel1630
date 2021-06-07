@@ -53,3 +53,24 @@ You can contact me via:
 ## Featured Projects 🥇
 [![AudioLec](https://github-readme-stats.vercel.app/api/pin/?username=aryamankukal&repo=AudioLec&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![CBot Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=jjoel1630&repo=CBot&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Badges
+**Languages 📚**:
+- [img](https://img.shields.io/badge/Language-JavaScript-blue?style=for-the-badge&logo=JavaScript)
+  - [img](https://img.shields.io/badge/Language-TypeScript-blue?style=for-the-badge&logo=TypeScript)
+  - [img](https://img.shields.io/badge/Language-Nodejs-blue?style=for-the-badge&logo=Javascript)
+  - [img](https://img.shields.io/badge/Language-React-blue?style=for-the-badge&logo=React)
+  - [img](https://img.shields.io/badge/Language-Expressjs-blue?style=for-the-badge&logo=Express)
+- [img](https://img.shields.io/badge/Language-HTML-blue?style=for-the-badge&logo=HTML5)
+- [img](https://img.shields.io/badge/Language-CSS-blue?style=for-the-badge&logo=CSS3)
+- [img](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge)
+- [img](https://img.shields.io/badge/Language-Java-blue?style=for-the-badge&logo=Java)
+- [img](https://img.shields.io/badge/Language-Python-blue?style=for-the-badge&logo=Python)
+**Cloud ☁**
+- [img](https://img.shields.io/badge/Language-Firebase-blue?style=for-the-badge&logo=Firebase)
+- [img](https://img.shields.io/badge/Language-AWS-blue?style=for-the-badge&logo=Amazon%20AWS)
+**Databases 📄**
+- [img](https://img.shields.io/badge/Language-MongoDB-blue?style=for-the-badge&logo=MongoDB)
+- [img](https://img.shields.io/badge/Language-DynamoDB-blue?style=for-the-badge&logo=Amazon%20DynamoDB)
+- [img](http://img.shields.io/badge/Language-MySQL-blue?style=for-the-badge&logo=MySQL)
+- [img](https://img.shields.io/badge/Language-SQLITE-blue?style=for-the-badge&logo=SQLite)
