@@ -53,7 +53,7 @@ You can contact me via:
 ## Featured Projects 🥇
 [![AudioLec](https://github-readme-stats.vercel.app/api/pin/?username=aryamankukal&repo=AudioLec&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![CBot Discord Bot](https://github-readme-stats.vercel.app/api/pin/?username=jjoel1630&repo=CBot&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![EZ Campus](https://github-readme-stats.vercel.app/api/pin/?username=jjoel1630&repo=Ez-Campus&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ez-Campus](https://github-readme-stats.vercel.app/api/pin/?username=jjoel1630&repo=Ez-Campus&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Badges
 **Languages 📚**:
