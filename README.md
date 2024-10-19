@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 -->
 
-[![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjoel1630&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjoel1630&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoel1630&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jjoel1630&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## About me 💻
 
