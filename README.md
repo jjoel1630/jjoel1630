@@ -39,7 +39,7 @@ You can contact me via:
 
 ## Featured Projects 🥇
 
-[![AudioLec](https://github-readme-stats.vercel.app/api/pin/?username=aryamankukal&repo=AudioLec&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![ChatGuard](https://github-readme-stats.vercel.app/api/pin/?username=jjoel1630&repo=ChatGuard&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Notesify](https://github-readme-stats.vercel.app/api/pin/?username=jjoel1630&repo=Notesify&theme=material-palenight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![CBot](https://github-readme-stats.vercel.app/api/pin/?username=jjoel1630&repo=CBot&theme=material-palenight&show_icons=true)](https://github.com/jjoel1630/CBot)
+[![AudioLec](https://github-readme-stats.vercel.app/api/pin/?username=aryamankukal&repo=AudioLec&theme=material-palenight&show_icons=true)](https://github.com/aryamankukal/AudioLec) [![ChatGuard](https://github-readme-stats.vercel.app/api/pin/?username=jjoel1630&repo=ChatGuard&theme=material-palenight&show_icons=true)](https://github.com/jjoel1630/ChatGuard) [![Notesify](https://github-readme-stats.vercel.app/api/pin/?username=jjoel1630&repo=Notesify&theme=material-palenight&show_icons=true)](https://github.com/jjoel1630/Notesify) [![CBot](https://github-readme-stats.vercel.app/api/pin/?username=jjoel1630&repo=CBot&theme=material-palenight&show_icons=true)](https://github.com/jjoel1630/CBot)
 
 ## Badges
 
